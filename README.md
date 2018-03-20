@@ -1,5 +1,5 @@
 # Google Search Result Item Q1(Vulcan Search)
-> Simple Readable App built with React-Redux
+> Simple App built with Reactjs
 
 ## Installing / Getting started
 
