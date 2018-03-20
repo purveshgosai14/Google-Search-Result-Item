@@ -1,0 +1,103 @@
+.gMain {
+    margin-top: 0;
+    margin-bottom: 26px;
+}
+.gMain, body, html, input, .std, h1 {
+    font-size: small;
+    font-family: arial,sans-serif;
+}
+.gMain {
+    line-height: 1.2;
+    text-align: left;
+}
+div {
+    display: block;
+}
+h3, .med {
+    font-size: medium;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #222;
+}
+.gMain, body, html, input, .std, h1 {
+    font-size: small;
+    font-family: arial,sans-serif;
+}
+.gMain, body, html, input, .std, h1 {
+    font-size: small;
+    font-family: arial,sans-serif;
+}
+    .mainTitle {
+    position: relative;
+}
+#res h3.r {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#res h3 {
+    font-size: 18px;
+}
+.sHeader {
+    font-size: medium;
+}
+.sl, .sHeader {
+    display: inline;
+    font-weight: normal;
+    margin: 0;
+}
+h3, .med {
+    font-size: medium;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+a:link, .w, .q:active, .q:visited {
+    cursor: pointer;
+}
+.mblink:visited, a:visited {
+    color: #609;
+}
+.mainTitle .search {
+    line-height: 18px;
+}
+.search {
+    color: #545454;
+}
+.search {
+    max-width: 48em;
+}
+.sam, .sam a:link {
+    color: #808080;
+}
+.abc, .slp {
+    display: block;
+}
+.sam, .sam a:link, .m {
+    color: #666;
+}
+.citeName {
+    font-size: 14px;
+}
+.a, cite, cite a:link, cite a:visited, .cite, .cite:link, a:link {
+    color: #006621;
+    font-style: normal;
+    font-size: 19px;
+}
+.temp {
+    line-height: 1.4;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+.mainTitle .search {
+    line-height: 18px;
+}
+.search {
+    color: #545454;
+}
